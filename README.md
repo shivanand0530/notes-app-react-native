@@ -3,7 +3,7 @@
 # FEATURES
 
 
-Create notes, 
+Create notes,
 View notes, 
 Update notes, 
 Select multiple notes, 
@@ -19,25 +19,24 @@ Color notes,
 Add labels to notes,
 Add reminders to notes 
 
-# technology and tools
+## Tech Stack
 
-
-React
-React Native
-CSS
-Eslint
+- React  
+- React Native  
+- CSS  
+- ESLint  
 
 # prereqisites 
 
 
-Node.js
-A code editor (preferably VS Code)
+- Node.js
+- A code editor (preferably VS Code)
 
 # Installation and set-up
 
 
-npm install
-npm start
+- npm install
+- npm start
 
 Download expo app on the mobile device and scan the QR code generated on terminal.
 For running on browser, press w on terminal and it will launch the browser.
